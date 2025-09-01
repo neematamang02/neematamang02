@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm neema</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
----
 
-<h3 align="left">Connect with me:</h3>
+
+# Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/Neema Tamang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neema" height="30" width="40" /></a>
 <a href="https://fb.com/Neema Tamang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="neema" height="30" width="40" /></a>
 <a href="https://instagram.com/nema d tmg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neema" height="30" width="40" /></a>
 </p>
----
+
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,nodejs,tailwind,mongodb,figm,vite,git,github,express,bootstrap&theme=light)](https://skillicons.dev#gh-dark-mode-only)
