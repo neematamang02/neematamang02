@@ -6,7 +6,10 @@ I'm currently studying<br>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Neema Tamang) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nema_d_tmg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Neema Tamang) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neematamang02@gmail.com) 
 
 # 💻 Tech Stack:
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,nodejs,tailwind,mongodb,figm,vite,git,github,express,bootstrap&theme=light)](https://skillicons.dev#gh-dark-mode-only)
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,nodejs,tailwind,mongodb,figma,vite,git,github,express,bootstrap&theme=dark)](https://skillicons.dev#gh-light-mode-only)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=neematamang02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=neematamang02&theme=dark&hide_border=false)<br/>
